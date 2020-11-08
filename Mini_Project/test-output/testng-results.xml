@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50901" started-at="2020-10-25T14:49:15Z" finished-at="2020-10-25T14:50:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50901" started-at="2020-10-25T14:49:15Z" finished-at="2020-10-25T14:50:05Z">
+      <class name="hotel_Automation.main_class">
+        <test-method status="PASS" signature="HotelAutomation()[pri:0, instance:hotel_Automation.main_class@724af044]" name="HotelAutomation" duration-ms="50892" started-at="2020-10-25T20:19:15Z" finished-at="2020-10-25T20:20:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelAutomation -->
+      </class> <!-- hotel_Automation.main_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
